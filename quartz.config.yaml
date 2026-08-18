@@ -100,6 +100,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: local
+      header: "GT Canon"
+      body: "GT Canon"
+      code: "GT Canon Mono"
   - source: "@quartz-themes/core"
     enabled: false
     options:
