@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://lewisatlas.netlify.app/
+  baseUrl: lewisatlas.netlify.app
   ignorePatterns:
     - private
     - templates
