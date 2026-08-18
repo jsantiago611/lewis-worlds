@@ -16,7 +16,7 @@ configuration:
     fontOrigin: local
     cdnCaching: true
     typography:
-      header: "GT Canon"
+      header: GT Canon
       body: GT Canon
       code: GT Canon Mono
     colors:
