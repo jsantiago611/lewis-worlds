@@ -41,3 +41,63 @@
   font-weight: 100 900;
   font-display: swap;
 }
+
+:root {
+    --size-step-00: clamp(0.9375rem, 0.92rem + 0.09vw, 1rem);
+    --size-step-0: clamp(1rem, 0.96rem + 0.19vw, 1.125rem);
+    --size-step-1: clamp(1.1875rem, 1.11rem + 0.37vw, 1.4375rem);
+    --size-step-2: clamp(1.4375rem, 1.34rem + 0.46vw, 1.75rem);
+    --size-step-3: clamp(1.75rem, 1.62rem + 0.65vw, 2.1875rem);
+    --size-step-4: clamp(2.0625rem, 1.86rem + 1.02vw, 2.75rem);
+    --size-step-5: clamp(2.5rem, 2.22rem + 1.39vw, 3.4375rem);
+    --size-step-6: clamp(2.5rem, 1.96rem + 2.69vw, 4.3125rem);
+    --size-step-7: clamp(3.5625rem, 3.03rem + 2.69vw, 5.375rem);
+    --size-step-8: clamp(4.3125rem, 3.61rem + 3.52vw, 6.6875rem);
+    --size-step-9: clamp(5.1875rem, 4.24rem + 4.72vw, 8.375rem);
+    --leading-flat: 1;
+    --leading-fine: 1.15;
+    --leading-compact: 1.25;
+    --leading-standard: 1.5;
+    --leading-loose: 1.7;
+    --kerning: normal;
+    --kerning-loose: .05ch;
+    --kerning-tight: -.04ch;
+    --kerning-caps: .1ch;
+}
+
+.page-title {
+    font-size: var(--size-step-1);
+    margin: 0;
+    font-variation-settings: "wdth" 100, "wght" 501, "opsz" 40;
+    font-family: var(--codeFont) !important;
+    text-transform: uppercase;
+    letter-spacing: var(--kerning-tight);
+}
+
+.article-title {
+    margin: 2rem 0 0;
+    font-variation-settings: "wdth" 100, "wght" 400, "opsz" 60;
+    font-size: var(--size-step-4);
+    letter-spacing: var(--kerning-tight);
+    line-height: var(--leading-compact);
+}
+
+.note-properties {
+    border: 1px solid var(--lightgray);
+    border-radius: 0;
+    margin: .5rem 0 1rem;
+    font-size: var(--size-step-00);
+    font-family: var(--codeFont);
+    text-transform: uppercase;
+}
+
+.content-meta {
+    color: var(--darkgray);
+    margin-top: 0;
+    font-variation-settings: "wdth" 100, "wght" 400, "opsz" 18;
+    font-family: var(--codeFont);
+    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: var(--kerning);
+    font-size: var(--size-step-00);
+}
