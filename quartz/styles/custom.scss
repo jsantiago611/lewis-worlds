@@ -78,7 +78,7 @@
     margin: 2rem 0 0;
     font-variation-settings: "wdth" 100, "wght" 400, "opsz" 60;
     font-size: var(--size-step-4);
-    letter-spacing: var(--kerning-tight);
+    letter-spacing: var(--kerning);
     line-height: var(--leading-compact);
 }
 
@@ -100,4 +100,9 @@
     -webkit-font-smoothing: antialiased;
     letter-spacing: var(--kerning);
     font-size: var(--size-step-00);
+}
+
+tbody, li, p {
+    line-height: 1.6rem;
+    font-variation-settings: "opsz" 8;
 }
