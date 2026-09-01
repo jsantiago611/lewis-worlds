@@ -1,8 +1,6 @@
 ---
 title: Start Here
 draft: false
-tags:
-  - example-tag
 ---
  
 # Welcome
