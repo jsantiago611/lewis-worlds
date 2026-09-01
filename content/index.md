@@ -6,4 +6,4 @@ tags:
 ---
  
 # Welcome
-You've landed on a digital site exploring the worlds of C.S. Lewis.
+You've landed on a digital Formation System for the Writings of C.S. Lewis.
