@@ -1,12 +1,12 @@
 ---
-title: "Earth — Ransom's England"
+title: "Earth : Ransom's England"
 description: "A digital study card examining Earth's framing chapters in Perelandra and the illusion of naturalism."
 tags:
   - world
   - perelandra
   - ransom
 aliases:
-  - Earth - Ransom's England
+  - Earth 
   - Ransom's England
 date: 2026-09-01
 publish: true
