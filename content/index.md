@@ -6,34 +6,31 @@ draft: false
 
 [!card] The Long Walk
 An Open-Source Solo Journaling & Exploration Game
-Step into the cosmic, moral, and spiritual topography of C.S. Lewis’s Perelandra. Navigate shifting worlds, confront psychological thresholds, and let your daily writing carve a living path from the chaotic floating islands up to the unfallen mountain summit. Pick your coordinate and begin your pilgrimage.
+Step into C.S. Lewis's Perelandra. Navigate shifting worlds, confront psychological thresholds, and let your daily writing build a path from floating islands up to the mountain summit. Pick your coordinate and begin your pilgrimage.
 
 ## How to Play
-This game requires no dice, complex stats, or mechanical bloat. This is your game board and your daily journal entries are your movement.
+Play without dice, complex stats, or mechanical bloat. Your daily journal entries drive your movement.
 
-### 1. The Deck & The Map
-The vault is organized into five structural directories that act as your geographical and psychological terrain:
+### The Deck & The Map
+Five structural directories act as your geographical and psychological terrain:
 
 - 01-WORLDS/: The macro-environments (ranging from the shifting waters of Venus to the fixed stone summit).
 - 02-CHARACTERS/: The mirrors and voices pressing against your attention (from the Un-man to the Green Lady).
 - 03-CLAIMS/: The foundational metaphysical truths and apologetic lenses tested in daily life.
-- 04-THRESHOLDS/: The micro-scenes, obstacles, and friction points where decisions happen.
+- 04-THRESHOLDS/:  Scenes, obstacles, and decision points.
 - 05-THREADS/ & 06-COMPANIONS/: Cross-corpus connections and historical context.
 
-### 2. The Daily Turn Loop
-The Draw: Pull one random card from the vault (or use a daily randomizer script). This is your coordinate for the day.
+### The Daily Turn Loop
+1. The Draw: Pull one random card from the vault or run a daily randomizer script. The card serves as your daily coordinate.
+2. The Inquiry: Read the prompt or governing illusion on the card. Apply the core tension to your daily life. Examine where you rationalize, avoid, or stand firm.
+3. The Journal Entry: Write an honest entry in your daily log addressing the prompt.
+4. The Climb: Insert a wikilink to your drawn card at the bottom of your entry, such as [[The-Forgotten-Luggage]].
 
-The Inquiry: Read the card's prompt or governing illusion. Apply its core tension to your actual, everyday life—examining where you are rationalizing, avoiding, or standing firm.
-
-The Journal Entry: Write an honest, introspective entry in your daily log addressing the prompt.
-
-The Climb (The Link): At the bottom of your entry, insert a wikilink to the card you drew (e.g., [[The-Forgotten-Luggage]]).
-
-### 3. Progression & The Climb
-There is no artificial scoring system. Your links are your progress. Over weeks of journaling, clicking on any card note will reveal a growing network of backlinks—a visual topography of your spiritual and psychological patterns mapped across Lewis's universe.
+### Progression & The Climb
+No artificial scoring system exists. Your links show your progress. Over weeks of journaling, clicking any card note reveals a growing network of backlinks. This network maps your spiritual and psychological patterns across Lewis's universe.
 
 ## The Vault Index
-Browse the card deck below to begin exploring manually, or set up a random card draw in your own vault to start your pilgrimage.
+Browse the card deck below to explore manually, or use the random card draw below to start your pilgrimage.
 
 Worlds: [[Earth-Ransoms-England|Earth — Ransom's England]] | [[Deep-Heaven|Deep Heaven]] | [[The-Floating-Islands-of-Perelandra|Floating Islands]] | [[The-Fixed-Land|Fixed Land]] | [[The-Subterranean-Basalt-Caves|Basalt Caves]] | [[The-Harappan-Mountain-Summit|Mountain Summit]]
 
