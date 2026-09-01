@@ -1,13 +1,17 @@
 ---
 title: "Earth — Ransom's England"
-type: world
-source_work: "Perelandra, Chapter 1"
-atmosphere: "A cold, damp, thoroughly ordinary three-mile walk from Worchester station across an autumn heath—dreary suburban houses, yellowish trees, mist."
-governing_illusion: "That the physical, mapped, familiar English countryside is a neutral, safe, spiritually empty backdrop."
+description: "A digital study card examining Earth's framing chapters in Perelandra and the illusion of naturalism."
 tags:
   - world
   - perelandra
   - ransom
+aliases:
+  - Earth - Ransom's England
+  - Ransom's England
+date: 2026-09-01
+publish: true
+draft: false
+enableToc: true
 ---
 
 # Earth — Ransom's England
