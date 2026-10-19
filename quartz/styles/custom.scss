@@ -11,6 +11,14 @@
 }
 
 @font-face {
+  font-family: 'Ceraph';
+  src: url('/static/fonts/ceraphReg.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "GT Canon";
   src: url("/static/fonts/GT-Canon-VF.woff2") format("woff2");
   font-style: normal;
