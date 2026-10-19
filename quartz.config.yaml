@@ -16,7 +16,7 @@ configuration:
     fontOrigin: local
     cdnCaching: true
     typography:
-      header: ceraph
+      header: Ceraph
       body: GT Canon
       code: GT Canon Mono
     colors:
@@ -102,7 +102,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: local
-      header: "GT Canon"
+      header: "Ceraph"
       body: "GT Canon"
       code: "GT Canon Mono"
   - source: "@quartz-themes/core"
