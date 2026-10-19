@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       header: Ceraph
-      body: GT Canon
-      code: GT Canon Mono
+      body: Helveesti
+      code: Helveesti
     colors:
       lightMode:
         light: "#faf8f8"
@@ -103,8 +103,8 @@ plugins:
     options:
       fontOrigin: local
       header: "Ceraph"
-      body: "GT Canon"
-      code: "GT Canon Mono"
+      body: "Helveesti"
+      code: "Helveesti"
   - source: "@quartz-themes/core"
     enabled: false
     options:
