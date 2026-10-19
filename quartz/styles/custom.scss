@@ -108,10 +108,9 @@
 .page-title {
     font-size: var(--size-step-1);
     margin: 0;
-    font-variation-settings: "wdth" 100, "wght" 501, "opsz" 40;
-    font-family: var(--codeFont) !important;
+    font-feature-settings: "calt", "liga", "ss01", "ss02", "ss03";    
     text-transform: uppercase;
-    letter-spacing: var(--kerning-tight);
+    //letter-spacing: var(--kerning-tight);
 }
 
 .article-title {
